@@ -1,4 +1,4 @@
-const API_BASE = 'http://localhost:5004/api';
+const API_BASE = 'https://aptura-tech-solution-internship.vercel.app/api';
 
 
 export const getSalesReport = (params = {}) => async (dispatch) => {
